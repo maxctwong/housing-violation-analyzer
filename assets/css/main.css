@@ -537,7 +537,7 @@ input, select, textarea {
 					padding-top: 5em;
 				}
 		.work-item {
-			height: 100vh;
+			height: 50vh;
 		}
 
 		@media screen and (max-width: 1800px) {
@@ -783,7 +783,7 @@ input, select, textarea {
 							padding-top: 5em;
 						}
 			.work-item {
-				height: 100vh;
+				height: 50vh;
 			}
 		}
 
@@ -1030,7 +1030,7 @@ input, select, textarea {
 							padding-top: 4em;
 						}
 			.work-item {
-				height: 100vh;
+				height: 50vh;
 			}
 
 		}
@@ -1278,7 +1278,7 @@ input, select, textarea {
 							padding-top: 4em;
 						}
 			.work-item {
-				height: 100vh;
+				height: 50vh;
 			}
 
 		}
@@ -1526,7 +1526,7 @@ input, select, textarea {
 							padding-top: 3em;
 						}
 			.work-item {
-				height: 100vh;
+				height: 50vh;
 			}
 
 		}
@@ -1774,7 +1774,7 @@ input, select, textarea {
 							padding-top: 3em;
 						}
 			.work-item {
-				height: 100vh;
+				height: 50vh;
 			}
 
 		}
