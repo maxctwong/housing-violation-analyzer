@@ -538,7 +538,12 @@ input, select, textarea {
 				}
 		iframe {
     			height: 70vh;
-  		}		
+  		}
+		.work-item {
+  			padding: 1em 0;
+  			margin: 0;
+		}
+
 
 		@media screen and (max-width: 1800px) {
 
@@ -785,6 +790,10 @@ input, select, textarea {
 			iframe {
     				height: 70vh;
   			}
+			.work-item {
+  				padding: 1em 0;
+  				margin: 0;
+			}
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -1032,6 +1041,10 @@ input, select, textarea {
 			iframe {
     				height: 70vh;
   			}
+			.work-item {
+  				padding: 1em 0;
+  				margin: 0;
+			}
 
 		}
 
@@ -1280,6 +1293,10 @@ input, select, textarea {
 			iframe {
     				height: 70vh;
   			}
+			.work-item {
+  				padding: 1em 0;
+  				margin: 0;
+			}
 
 		}
 
@@ -1528,6 +1545,10 @@ input, select, textarea {
 			iframe {
     				height: 70vh;
   			}
+			.work-item {
+  				padding: 1em 0;
+  				margin: 0;
+			}
 
 		}
 
@@ -1776,6 +1797,10 @@ input, select, textarea {
 			iframe {
     				height: 70vh;
   			}
+			.work-item {
+  				padding: 1em 0;
+  				margin: 0;
+			}
 
 		}
 
