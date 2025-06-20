@@ -536,7 +536,7 @@ input, select, textarea {
 				.row.gtr-200.gtr-uniform > * {
 					padding-top: 5em;
 				}
-		iframe {
+		.row.iframe {
     			height: 70vh;
   		}
 
@@ -783,7 +783,7 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 5em;
 						}
-			iframe {
+			.row.iframe {
     				height: 70vh;
   			}
 		}
@@ -1030,7 +1030,7 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 4em;
 						}
-			iframe {
+			.row.iframe {
     				height: 70vh;
   			}
 
@@ -1278,7 +1278,7 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 4em;
 						}
-			iframe {
+			.row.iframe {
     				height: 70vh;
   			}
 
@@ -1526,7 +1526,7 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 3em;
 						}
-			iframe {
+			.row.iframe {
     				height: 70vh;
   			}
 
@@ -1774,7 +1774,7 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 3em;
 						}
-			iframe {
+			.row.iframe {
     				height: 70vh;
   			}
 		}
